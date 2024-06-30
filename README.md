@@ -17,3 +17,7 @@ RESTCountries has over 1200 users, including:
 # Users
 
 Below are described the REST endpoints available that you can use to search for countries
+
+# All
+
+https://restcountries.eu/rest/v2/all
