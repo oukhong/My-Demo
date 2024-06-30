@@ -21,3 +21,5 @@ Below are described the REST endpoints available that you can use to search for 
 # All
 
 https://restcountries.eu/rest/v2/all
+
+
