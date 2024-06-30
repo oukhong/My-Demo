@@ -1,0 +1,16 @@
+// install in node js
+> npm install mysql2
+
+//create connection file
+
+
+const mysql = require("mysql2/promise");
+const db = mysql.createPool({
+    host: "localhost",
+    user: "root",
+    password: "",
+    database: "g7_db",
+    port: 6306, //3306
+    namedPlaceholders: true,
+});
+module.exports = db;

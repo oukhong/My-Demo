@@ -1,0 +1,10 @@
+
+
+ALTER TABLE user
+ADD FOREIGN KEY (RoleId) REFERENCES role(Id);
+
+ALTER TABLE product
+ADD FOREIGN KEY (CategoryId) REFERENCES category(Id);
+
+ALTER TABLE employee
+ADD FOREIGN KEY (RoleId) REFERENCES role(Id);
