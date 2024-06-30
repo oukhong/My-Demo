@@ -10,8 +10,8 @@ The restcountries project has been acquired by apilayer, one of the leading prov
 
 RESTCountries has over 1200 users, including:
 
-Xero
-SKROSS
+https://www.xero.com
+[SKROSS](http://www.skross.com/en)
 
 # Users
 
